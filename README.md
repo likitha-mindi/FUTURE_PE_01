@@ -18,7 +18,10 @@ All prompts, outputs, and explanations are documented in this repository.
 - GitHub  
 
 ## Business Chosen  
- Cafe
+  Local Cafe - Urban Brew Cafe
+  Target Audience: Young professionals, students, and families
+  Location Focus: Local neighborhood customers
+  Tone: Warm, modern, inviting
 
 ## Repository Structure  
 - prompts.md → Contains structured prompts used  

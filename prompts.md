@@ -1,3 +1,4 @@
+# PROMPTS USED – AI Website Copy Generator
 ## Prompt 1 – Advanced Homepage Copy
 
 Act as a senior website copywriter and conversion strategist.
@@ -23,3 +24,25 @@ Secondary keywords: specialty coffee, cozy café workspace
 
 Tone:
 Warm, inviting, premium yet friendly.
+
+## Prompt 2 – Services Page Content
+Act as a website content strategist.
+
+Write service page descriptions for "Urban Brew Café".
+
+Include sections for:
+- Specialty Coffee
+- Fresh Bakery Items
+- Breakfast & Snacks
+- Free Wi-Fi & Work-Friendly Space
+- Private Event Hosting
+
+Tone: simple, persuasive, customer-focused.
+
+## Prompt 3 – Call-to-Action Sections
+Write 5 different high-converting call-to-action sections for a local café website.
+
+Each CTA should:
+- Be short
+- Encourage visit or booking
+- Sound friendly and welcoming

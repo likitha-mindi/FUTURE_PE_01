@@ -1,8 +1,7 @@
 
 # AI GENERATED OUTPUTS
 
-HOMEPAGE COPY
-------------------------------------------------------------
+## HOMEPAGE COPY
 
 Hero Headline:
 Your Daily Dose of Comfort & Coffee.
@@ -22,8 +21,7 @@ Why Choose Us:
 Call-To-Action:
 Visit Urban Brew Café Today – Your Table is Waiting.
 
-SERVICES PAGE CONTENT
-------------------------------------------------------------
+## SERVICES PAGE CONTENT
 
 Specialty Coffee:
 From classic espresso to signature cold brews, every cup is crafted with precision and passion.
@@ -40,8 +38,7 @@ A comfortable environment with high-speed internet – perfect for remote work o
 Private Event Hosting:
 Celebrate birthdays, meetings, or small gatherings in our cozy private space.
 
-CALL-TO-ACTION VARIATIONS
-------------------------------------------------------------
+## CALL-TO-ACTION VARIATIONS
 
 1. Stop By Today and Taste the Difference.
 2. Grab Your Favorite Brew – We’re Ready for You.

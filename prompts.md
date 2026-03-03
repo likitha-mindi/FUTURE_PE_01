@@ -1,5 +1,5 @@
 # PROMPTS USED – AI Website Copy Generator
-## Prompt 1 – Advanced Homepage Copy
+## Prompt 1 – Homepage Copy
 
 Act as a senior website copywriter and conversion strategist.
 
@@ -19,7 +19,7 @@ Include:
 - Meta description (155 characters)
 - Strong conversion-focused CTA
 
-Primary keyword: Best Café in [Your City]
+Primary keyword: Best Café in Visakhapatnam
 Secondary keywords: specialty coffee, cozy café workspace
 
 Tone:

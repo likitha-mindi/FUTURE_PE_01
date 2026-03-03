@@ -33,3 +33,5 @@ All prompts, outputs, and explanations are documented in this repository.
 - Prompt structuring for business use  
 - Conversion-focused website copywriting  
 - AI workflow documentation
+- Local SEO keyword targeting
+- Conversion psychology in website copy

@@ -30,3 +30,15 @@ The AI generated structured, website-ready content that:
 - Focuses on customer benefits
 - Encourages action
 - Matches a real local café business use-case
+## Prompt Techniques Used
+1. Keyword Targeting  
+Primary and secondary keywords were added to improve SEO optimization.
+
+2. Word Count Control  
+Specifying 300 words ensures structured, substantial output.
+
+3. Competitor Positioning  
+The AI was instructed to differentiate from competitors to simulate real business copywriting strategy.
+
+4. Conversion Psychology  
+CTA emphasis ensures business-oriented output rather than generic content.

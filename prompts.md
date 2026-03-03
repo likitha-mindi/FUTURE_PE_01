@@ -1,41 +1,25 @@
-# PROMPTS USED – AI Website Copy Generator
+## Prompt 1 – Advanced Homepage Copy
 
-## Prompt 1 – Homepage Copy
+Act as a senior website copywriter and conversion strategist.
 
-Act as a professional website copywriter.
+Write a 300-word SEO-optimized homepage copy for a modern neighborhood café named "Urban Brew Café".
 
-Write homepage copy for a modern local café named "Urban Brew Café".
+Business context:
+- Located in a competitive urban area
+- Target audience: students, remote workers, young professionals, families
+- Positioning: Cozy yet premium café with community vibe
 
-Target audience: students, young professionals, and families.
-Tone: warm, inviting, modern, friendly.
-Location focus: neighborhood café.
 Include:
-- Hero headline
-- Short introduction paragraph
-- Value proposition
-- Why choose us section
-- Strong Call-to-Action
+- Hero headline (emotion-driven)
+- Subheadline
+- 300-word homepage body
+- Value proposition bullets
+- Differentiation from competitors
+- Meta description (155 characters)
+- Strong conversion-focused CTA
 
-## Prompt 2 – Services Page Content
+Primary keyword: Best Café in [Your City]
+Secondary keywords: specialty coffee, cozy café workspace
 
-Act as a website content strategist.
-
-Write service page descriptions for "Urban Brew Café".
-
-Include sections for:
-- Specialty Coffee
-- Fresh Bakery Items
-- Breakfast & Snacks
-- Free Wi-Fi & Work-Friendly Space
-- Private Event Hosting
-
-Tone: simple, persuasive, customer-focused.
-
-## Prompt 3 – Call-to-Action Sections
-
-Write 5 different high-converting call-to-action sections for a local cafe website.
-
-Each CTA should:
-- Be short
-- Encourage visit or booking
-- Sound friendly and welcoming
+Tone:
+Warm, inviting, premium yet friendly.
